@@ -1,0 +1,3 @@
+[submodule "angular-realworld-example-app"]
+	path = angular-realworld-example-app
+	url = https://github.com/winterrrrrff/angular-realworld-example-app.git
